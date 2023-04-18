@@ -1,12 +1,15 @@
 # Learning Authentication and Security
+Authentication and security are critical components of web applications. Without proper authentication and security measures in place, sensitive information can be easily compromised. This project aims to teach users about these topics by providing examples and explanations of various authentication and security techniques.
 
 ## Technologies Used
-- Node.js
-- Express
-- Passport.js
-- Bcrypt
-- JSON Web Tokens (JWT)
-- Cookies
+The following technologies were used in this project:
+
+* Node.js
+* Express
+* Passport.js
+* bcrypt
+* JSON Web Tokens (JWT)
+* OAuth 2.0
 
 ## Installation
 1. Clone the repository using the following command:
